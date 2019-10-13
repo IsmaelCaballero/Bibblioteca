@@ -1,4 +1,4 @@
-# Bibblioteca
+# Biblioteca
 Este es un ejemplo para exponer el desarrollo de una aplicación simple para la asignatura Ingeniería del Software 2 de la ESI (UCLM)
 
 La idea fundamental es desarrollar el proyecto siguiendo el Proceso Unificado de Desarrollo e ilustrar cómo mediante los forks / pull request se puede ir evolucionando un proyecto de forma iterativa e incremental por varios equipos de trabajo. 
